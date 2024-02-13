@@ -25,4 +25,3 @@ for i in range(antalSessonger):
             
 
 print("Spelaren var mållös i ",mållösStreak," matcher i rad",antalStreaks / (antalSessonger * 0.01)," procent av sessongerna.")
-print(antalStreaks)
