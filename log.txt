@@ -2,3 +2,13 @@ V.6
 Hockey Simulering
 
 V.7
+Uppgift 2-5
+
+V.8
+Testade matplotlib och gjorde grafer, använde eval() funktionen för att skriva in egna funktioner
+
+V.9
+Lov
+
+V.10
+Derivata
